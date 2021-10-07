@@ -36,7 +36,12 @@ public class ConcurrentHashMapDeme {
         System.out.println(m);
         System.out.println(m);
        System.out.println("+++++++++++++++++" +Thread.activeCount());
+
+        System.out.println(m);
+
        
+        System.out.println(m);
+
         
     }
 }
